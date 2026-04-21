@@ -1,0 +1,198 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
+hash = "aa798e887fb1fe69563a06e259dc2be59bcb3baf45ec05c1ded759ac6c1ff3ef"
+
+[[files]]
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
+hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
+
+[[files]]
+file = "config/modpack_defaults/config/immediatelyfast.json"
+hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
+
+[[files]]
+file = "config/modpack_defaults/config/modernfix-mixins.properties"
+hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
+
+[[files]]
+file = "config/modpack_defaults/config/servercore/config.yml"
+hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
+
+[[files]]
+file = "config/modpack_defaults/config/servercore/optimizations.yml"
+hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-options.json"
+hash = "5b24c9a57bb6092df95d9e8ec3c79574103967cef4db94508b9b172df1e447e5"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "720665a797fd8303d3a2f4e528a449b043dbbd6e9b18bed8646ba98da4141c15"
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "b6334969f26d7d6ad0c9dd5e2336a71952c286bee1e38ac0aa22a757ad8e3d0d"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+hash = "66e066d2fdecd2750afca6b9cf5296e0fb0c61573ddbbd41c1dc2ce53e8b71a7"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "34bd4cb7b79edaca77a2769e9d2646a531d48f4be65587609065aaa7f141b303"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "2d51fa52a16d97c242e860e649cd4c5ed8ab00190c428974793425745c0d92c7"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "cc5914bc09a7362dfd660fbeff105d3595b19de9c6491327272f85c557d4aa3b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
+metafile = true

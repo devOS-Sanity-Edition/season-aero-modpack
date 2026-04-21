@@ -1,0 +1,13 @@
+name = "devOS Season Aero"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1dd1140c1fbacc71387359216df2e6d02e4b5014692cbbbabd9943c081dd4918"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
+unsup = "1.1.6"
