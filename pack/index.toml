@@ -13,6 +13,10 @@ file = "config/modpack_defaults/config/immediatelyfast.json"
 hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 
 [[files]]
+file = "config/modpack_defaults/config/jade/jade.json"
+hash = "9be293b017cc8b9fdb9ff32d535d8a408eabc6b68369cc6fed3b87c0176d70ac"
+
+[[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
 hash = "a8e2e2d640e9d7b6992ca25c69a5225e3840663f2b23b91432ad95456b8d0733"
 
@@ -30,7 +34,7 @@ hash = "5b24c9a57bb6092df95d9e8ec3c79574103967cef4db94508b9b172df1e447e5"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "720665a797fd8303d3a2f4e528a449b043dbbd6e9b18bed8646ba98da4141c15"
+hash = "6f209cc6d0742e2a8fb2cc87d2783fcaac3faaca31922b9b863675ce17984f7f"
 
 [[files]]
 file = "mods/biolith.pw.toml"
@@ -193,6 +197,16 @@ hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "e8c3f829458b16691508fe87672d7e70c73fac15663bbebfb9829efd2521fa24"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9f2fff72148af2a06394db56a347632c7089843f8684c51d5eb95a54ca9ef3d6"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
@@ -200,4 +214,9 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true

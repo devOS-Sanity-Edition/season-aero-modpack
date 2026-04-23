@@ -1,2 +1,3 @@
 simulationDistance:12
 onboardAccessibility:true
+resourcePacks:["file/CreateSophBackpacks.zip"]
