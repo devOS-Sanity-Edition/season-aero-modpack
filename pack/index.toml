@@ -29,6 +29,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "6f209cc6d0742e2a8fb2cc87d2783fcaac3faaca31922b9b863675ce17984f7f"
 
 [[files]]
+file = "mods/aeronautics-dyeable-components.pw.toml"
+hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
