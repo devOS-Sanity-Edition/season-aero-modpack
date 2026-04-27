@@ -1,0 +1,13 @@
+name = "The Block Box"
+filename = "BlockBox-1.21.1-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UmGvBQOb/versions/dCzpnTwA/BlockBox-1.21.1-0.1.2.jar"
+hash-format = "sha512"
+hash = "bd66ac7553ba5c00475e17797e07519cfe84b3fe4354e750f5e153eae949e8f390d485b464538aed4d44db2873254cb2abfc8a934cde9041bd8b7747a4c9a527"
+
+[update]
+[update.modrinth]
+mod-id = "UmGvBQOb"
+version = "dCzpnTwA"

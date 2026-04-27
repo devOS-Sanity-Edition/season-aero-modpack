@@ -299,6 +299,11 @@ hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
 
 [[files]]
+file = "mods/the-block-box.pw.toml"
+hash = "af967f6747a7b913b36884989644ad90f2c7ba15b520fbd804eef7270973c735"
+metafile = true
+
+[[files]]
 file = "mods/tmrv.pw.toml"
 hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
 metafile = true
