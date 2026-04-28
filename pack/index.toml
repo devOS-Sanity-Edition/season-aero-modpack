@@ -29,6 +29,10 @@ file = "config/modpack_defaults/options.txt"
 hash = "6f209cc6d0742e2a8fb2cc87d2783fcaac3faaca31922b9b863675ce17984f7f"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "1a7d77725cb8303c2546c79dc15030d997bfc7fcf3883825b08c931e30360e88"
+
+[[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
 hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
 metafile = true
@@ -61,11 +65,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
-file = "mods/clumps.pw.toml"
-hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
@@ -139,13 +138,8 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
+hash = "ba424f5f24f050234fec8ffb948bf869d5ce4aa7933bc50d1953bd408efd6e2b"
 metafile = true
 
 [[files]]
@@ -180,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1ef97ce01670bb73af698f21321630789d95aa8ab622d5380daa28844b3b16d4"
+hash = "5231a5de143fef09fb80a9f2330587e287acf2626fe7f6df39772a2c778b754c"
 metafile = true
 
 [[files]]
@@ -249,6 +243,11 @@ hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
@@ -285,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9f2fff72148af2a06394db56a347632c7089843f8684c51d5eb95a54ca9ef3d6"
+hash = "23c31613960c38bc67da32c6dcd7e611d6a61bff225739ae87ccdaa7ef6fa1c1"
 metafile = true
 
 [[files]]
@@ -305,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "82d238f419db2d728dcaa850d3f4de11cbb3f504a02e334e33daeb95b9d93701"
+hash = "5bc9781110b5b926aa0cd2d19ddc1aa2ed0cb9e5678e63ef730ade61abab06ab"
 metafile = true
 
 [[files]]
