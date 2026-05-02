@@ -33,6 +33,11 @@ file = "config/quark-common.toml"
 hash = "1a7d77725cb8303c2546c79dc15030d997bfc7fcf3883825b08c931e30360e88"
 
 [[files]]
+file = "mods/advanced-loot-info.pw.toml"
+hash = "8f899e79ec5d6a4b02d5d38f188f0f5305d74cb82e94921294e1e7779ac4e9cc"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
 hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
 metafile = true
@@ -148,11 +153,6 @@ hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -170,11 +170,6 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "bf87620865e88ba85547d050f09c579e991ed1f80a05058ff86598c61e1d057d"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -200,11 +195,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "623fb7357556b0ff5c67c9d68a1aabe3880c5efe8bf75670e8b7c821fb66fc31"
-metafile = true
-
-[[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
@@ -265,11 +255,6 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
