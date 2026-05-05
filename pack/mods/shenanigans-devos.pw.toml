@@ -1,0 +1,13 @@
+name = "Shenanigans"
+filename = "shenanigans-1.0.26.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dyxPUdMZ/versions/wmy0wSqw/shenanigans-1.0.26.jar"
+hash-format = "sha512"
+hash = "9c1669fe9e1e6d6fa54bffcf0b56a36a56c078cc0fadfa600752b85985e77e11146995d5305d9ae80ef01dd349099320d44f8910db0b8d0b191ce6762161349f"
+
+[update]
+[update.modrinth]
+mod-id = "dyxPUdMZ"
+version = "wmy0wSqw"
